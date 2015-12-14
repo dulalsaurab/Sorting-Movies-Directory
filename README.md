@@ -1,1 +1,1 @@
-# Sorting-Top-IMDB-RT-Movies-From-Your-Directory
+# Sorting Movies Directory(IMDB and Rotten Tomatos score)
