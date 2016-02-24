@@ -1,13 +1,21 @@
-#this file extracts movies name from ftp server 
+'''
+Created on Feb 21, 2016
 
+@author: Saurab Dulal
+Sorting Movies Directory
+
+'''
+#this file extracts movies name from ftp server 
 from ftplib import FTP
 import os # allows me to use os.chdir
 from os import walk
 
 port=21
-ip="192.168.50.22"
-password='rdw@2011'
-directory = '/RDW/Media/Movies/HOLLYWOOD'
+ip="FTP_IP_ADDRESS"
+password='FTP_PASSWORD'
+directory = '/directory/to/your/movies/folder/'
+
+#you can use one of the two function below, either read from ftp server or from your local movie directory
 
 #changes the active dir - this is where downloaded files will be saved to
 def readFilesFromServer():
@@ -26,8 +34,8 @@ def readFilesFromServer():
 	
 #this function is for reading files from local env
 def readLocalFiles():
-	#mypath = '/media/django/TOSHIBA EXT/ALLMedia/movies/HOLLYWOOD'
-	mypath = 'D:/Saurab Dulal/buffer/IMDB A/moviesName'
+	#examplePath = '/media/django/TOSHIBA EXT/ALLMedia/movies/HOLLYWOOD'
+	mypath = '/directory/to/your/movies/folder/'
 	print(mypath)
 	files = []
 	for (dirpath, dirnames, filesname) in walk(mypath):
