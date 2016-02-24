@@ -6,7 +6,7 @@ audience_score,movieName,imdbVotes,critics_score,Metascore,Title,Released,Direct
 ,,,,,,,,,,
 94,DeadPool,"145,561",83,65,Deadpool,12-Feb-16,Tim Miller,2016,"Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",8.6
 ,,,,,,,,,,
-,,"327,306",,96,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29-Jan-64,Stanley Kubrick,1964,"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",8.5
+,,"327,306",,96,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29-Jan-64,Staneley Kubrick,1964,"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",8.5
 ,,,,,,,,,,
 89,Inside Out,"267,253",98,94,Inside Out,19-Jun-15,"Pete Docter, Ronnie Del Carmen",2015,"Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader",8.3
 ,,,,,,,,,,
@@ -14,7 +14,7 @@ audience_score,movieName,imdbVotes,critics_score,Metascore,Title,Released,Direct
 ,,,,,,,,,,
 93,A Beautiful Mind,"573,217",75,72,A Beautiful Mind,4-Jan-02,Ron Howard,2001,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",8.2
 ,,,,,,,,,,
-85,The Revenant,"224,187",82,76,The Revenant,8-Jan-16,Alejandro González Iñárritu,2015,"Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",8.2
+85,The Revenant,"224,187",82,76,The Revenant,8-Jan-16,Alejandro GonzÃ¡lez IÃ±Ã¡rritu,2015,"Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",8.2
 ,,,,,,,,,,
 92,The Martian,"341,153",92,80,The Martian,2-Oct-15,Ridley Scott,2015,"Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",8.1
 ,,,,,,,,,,
@@ -22,7 +22,7 @@ audience_score,movieName,imdbVotes,critics_score,Metascore,Title,Released,Direct
 ,,,,,,,,,,
 88,Moon,"247,765",89,67,Moon,10-Jul-09,Duncan Jones,2009,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw",8
 ,,,,,,,,,,
-,,"359,906",,76,(500) Days of Summer,7-Aug-09,Marc Webb,2009,"Joseph Gordon-Levitt, Zooey Deschanel, Geoffrey Arend, Chloë Grace Moretz",7.8
+,,"359,906",,76,(500) Days of Summer,7-Aug-09,Marc Webb,2009,"Joseph Gordon-Levitt, Zooey Deschanel, Geoffrey Arend, ChloÃ« Grace Moretz",7.8
 ,,,,,,,,,,
 ,,"436,638",,70,Captain America: The Winter Soldier,4-Apr-14,"Anthony Russo, Joe Russo",2014,"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",7.8
 ,,,,,,,,,,
@@ -56,9 +56,9 @@ audience_score,movieName,imdbVotes,critics_score,Metascore,Title,Released,Direct
 ,,,,,,,,,,
 71,"Definitely, Maybe","124,242",71,59,"Definitely, Maybe",14-Feb-08,Adam Brooks,2008,"Ryan Reynolds, An Nguyen, Matthew Mason, Rick Derby",7.2
 ,,,,,,,,,,
-75,Wild,"77,322",90,76,Wild,19-Dec-14,Jean-Marc Vallée,2014,"Reese Witherspoon, Laura Dern, Thomas Sadoski, Keene McRae",7.2
+75,Wild,"77,322",90,76,Wild,19-Dec-14,Jean-Marc VallÃ©e,2014,"Reese Witherspoon, Laura Dern, Thomas Sadoski, Keene McRae",7.2
 ,,,,,,,,,,
-71,Everest,"106,049",72,64,Everest,25-Sep-15,Baltasar Kormákur,2015,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson",7.1
+71,Everest,"106,049",72,64,Everest,25-Sep-15,Baltasar KormÃ¡kur,2015,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson",7.1
 ,,,,,,,,,,
 ,,"2,533",,56,The Fluffy Movie: Unity Through Laughter,1-Sep-15,"Manny Rodriguez, Jay Lavender",2014,"Gabriel Iglesias, Jacqueline Obradors, Gina Brillon, Alfred Robles",7.1
 ,,,,,,,,,,
