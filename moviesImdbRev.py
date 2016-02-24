@@ -1,3 +1,11 @@
+'''
+Created on Feb 21, 2016
+
+@author: Saurab Dulal
+Sorting Movies Directory
+
+'''
+
 from os import walk
 import urllib.request
 import requests 
