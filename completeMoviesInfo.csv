@@ -1,0 +1,87 @@
+audience_score,movieName,imdbVotes,critics_score,Metascore,Title,Released,Director,Year,Actors,imdbRating
+,,,,,,,,,,
+,,N/A,,N/A,The Islamic State,15-Aug-14,Medyan Dairieh,2014,N/A,N/A
+,,,,,,,,,,
+,,N/A,,N/A,300 Rise of an Empire: Becoming a Warrior,24-Jun-14,N/A,2014,N/A,N/A
+,,,,,,,,,,
+94,DeadPool,"145,561",83,65,Deadpool,12-Feb-16,Tim Miller,2016,"Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",8.6
+,,,,,,,,,,
+,,"327,306",,96,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,29-Jan-64,Stanley Kubrick,1964,"Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",8.5
+,,,,,,,,,,
+89,Inside Out,"267,253",98,94,Inside Out,19-Jun-15,"Pete Docter, Ronnie Del Carmen",2015,"Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader",8.3
+,,,,,,,,,,
+93,The Bridge on the River Kwai,"142,066",94,N/A,The Bridge on the River Kwai,14-Dec-57,David Lean,1957,"William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",8.2
+,,,,,,,,,,
+93,A Beautiful Mind,"573,217",75,72,A Beautiful Mind,4-Jan-02,Ron Howard,2001,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",8.2
+,,,,,,,,,,
+85,The Revenant,"224,187",82,76,The Revenant,8-Jan-16,Alejandro González Iñárritu,2015,"Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",8.2
+,,,,,,,,,,
+92,The Martian,"341,153",92,80,The Martian,2-Oct-15,Ridley Scott,2015,"Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",8.1
+,,,,,,,,,,
+77,The Hateful Eight,"124,563",75,68,The Hateful Eight,30-Dec-15,Quentin Tarantino,2015,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh, Walton Goggins",8
+,,,,,,,,,,
+88,Moon,"247,765",89,67,Moon,10-Jul-09,Duncan Jones,2009,"Sam Rockwell, Kevin Spacey, Dominique McElligott, Rosie Shaw",8
+,,,,,,,,,,
+,,"359,906",,76,(500) Days of Summer,7-Aug-09,Marc Webb,2009,"Joseph Gordon-Levitt, Zooey Deschanel, Geoffrey Arend, Chloë Grace Moretz",7.8
+,,,,,,,,,,
+,,"436,638",,70,Captain America: The Winter Soldier,4-Apr-14,"Anthony Russo, Joe Russo",2014,"Chris Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford",7.8
+,,,,,,,,,,
+84,The Game,"250,166",72,61,The Game,12-Sep-97,David Fincher,1997,"Michael Douglas, Sean Penn, Deborah Kara Unger, James Rebhorn",7.8
+,,,,,,,,,,
+82,Changeling,"193,978",62,63,Changeling,31-Oct-08,Clint Eastwood,2008,"Angelina Jolie, Gattlin Griffith, Michelle Gunn, Michael Kelly",7.8
+,,,,,,,,,,
+,,"348,769",,58,Kingsman: The Secret Service,13-Feb-15,Matthew Vaughn,2014,"Adrian Quinton, Colin Firth, Mark Strong, Jonno Davies",7.8
+,,,,,,,,,,
+89,Donnie Brasco,"218,006",87,76,Donnie Brasco,28-Feb-97,Mike Newell,1997,"Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby",7.8
+,,,,,,,,,,
+88,Bridge of Spies,"112,329",91,81,Bridge of Spies,16-Oct-15,Steven Spielberg,2015,"Mark Rylance, Domenick Lombardozzi, Victor Verhaeghe, Mark Fichera",7.7
+,,,,,,,,,,
+,,5,,N/A,Avengers Age of Ultron: Marvelous Movie Shawarma,7-Aug-13,Tom Grey,2013,"Mike Carrier, Ben Gigli, Mike Logan Schiffbauer, Adam J. Sloan",7.6
+,,,,,,,,,,
+86,Little Manhattan,"17,914",77,52,Little Manhattan,5-Jan-06,Mark Levin,2005,"Josh Hutcherson, Charlie Ray, Bradley Whitford, Cynthia Nixon",7.6
+,,,,,,,,,,
+,,"475,539",,76,The Hunger Games: Catching Fire,22-Nov-13,Francis Lawrence,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair",7.6
+,,,,,,,,,,
+,,"198,486",,75,Mission: Impossible - Rogue Nation,31-Jul-15,Christopher McQuarrie,2015,"Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson",7.5
+,,,,,,,,,,
+,,"184,565",,56,Perfume: The Story of a Murderer,5-Jan-07,Tom Tykwer,2006,"Ben Whishaw, Francesc Albiol, Gonzalo Cunill, Roger Salvany",7.5
+,,,,,,,,,,
+,,"1,340",,N/A,Monkey King: Hero Is Back,10-Jul-15,Tian Xiao Peng,2015,"Nickie Bryar, Feodor Chin, Nika Futterman, James Hong",7.4
+,,,,,,,,,,
+81,The Hunger Games,"675,743",84,68,The Hunger Games,23-Mar-12,Gary Ross,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields",7.3
+,,,,,,,,,,
+78,Pirates of Silicon Valley,"19,913",89,N/A,Pirates of Silicon Valley,20-Jun-99,Martyn Burke,1999,"Noah Wyle, Joey Slotnick, J.G. Hertzler, Anthony Michael Hall",7.3
+,,,,,,,,,,
+75,The Intern,"81,615",60,51,The Intern,25-Sep-15,Nancy Meyers,2015,"Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",7.2
+,,,,,,,,,,
+71,"Definitely, Maybe","124,242",71,59,"Definitely, Maybe",14-Feb-08,Adam Brooks,2008,"Ryan Reynolds, An Nguyen, Matthew Mason, Rick Derby",7.2
+,,,,,,,,,,
+75,Wild,"77,322",90,76,Wild,19-Dec-14,Jean-Marc Vallée,2014,"Reese Witherspoon, Laura Dern, Thomas Sadoski, Keene McRae",7.2
+,,,,,,,,,,
+71,Everest,"106,049",72,64,Everest,25-Sep-15,Baltasar Kormákur,2015,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright, Martin Henderson",7.1
+,,,,,,,,,,
+,,"2,533",,56,The Fluffy Movie: Unity Through Laughter,1-Sep-15,"Manny Rodriguez, Jay Lavender",2014,"Gabriel Iglesias, Jacqueline Obradors, Gina Brillon, Alfred Robles",7.1
+,,,,,,,,,,
+,,"4,134",,N/A,Batman: Bad Blood,19-Jan-16,Jay Oliva,2016,"Jason O'Mara, Yvonne Strahovski, Stuart Allan, Sean Maher",6.9
+,,,,,,,,,,
+,,"14,807",,81,Goodnight Mommy,11-Sep-15,"Severin Fiala, Veronika Franz",2014,"Lukas Schwarz, Elias Schwarz, Susanne Wuest, Hans Escher",6.7
+,,,,,,,,,,
+57,Run All Night,"66,717",61,59,Run All Night,13-Mar-15,Jaume Collet-Serra,2015,"Liam Neeson, Ed Harris, Joel Kinnaman, Boyd Holbrook",6.6
+,,,,,,,,,,
+79,While You Were Sleeping,"68,957",80,67,While You Were Sleeping,21-Apr-95,Jon Turteltaub,1995,"Sandra Bullock, Bill Pullman, Peter Gallagher, Peter Boyle",6.6
+,,,,,,,,,,
+,,"100,170",,40,Insidious: Chapter 2,13-Sep-13,James Wan,2013,"Patrick Wilson, Rose Byrne, Ty Simpkins, Lin Shaye",6.6
+,,,,,,,,,,
+56,Terminator Genisys,"165,960",26,38,Terminator Genisys,1-Jul-15,Alan Taylor,2015,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke, Jai Courtney",6.6
+,,,,,,,,,,
+,,"30,419",,66,Byzantium,31-May-13,Neil Jordan,2012,"Saoirse Ronan, Barry Cassin, Gemma Arterton, David Heap",6.5
+,,,,,,,,,,
+52,Cop Car,"16,738",79,66,Cop Car,7-Aug-15,Jon Watts,2015,"Kevin Bacon, James Freedson-Jackson, Hays Wellford, Camryn Manheim",6.2
+,,,,,,,,,,
+48,Vacation,"48,912",27,34,Vacation,29-Jul-15,"John Francis Daley, Jonathan M. Goldstein",2015,"Ed Helms, Christina Applegate, Skyler Gisondo, Steele Stebbins",6.2
+,,,,,,,,,,
+48,Flightplan,"122,627",38,53,Flightplan,23-Sep-05,Robert Schwentke,2005,"Jodie Foster, Peter Sarsgaard, Sean Bean, Kate Beahan",6.2
+,,,,,,,,,,
+,,32,,N/A,50-50,N/A,Megan Riakos,2011,"Oliver Ackland, Les Chantery, Jessica McNamee, Drew Pearson",6
+,,,,,,,,,,
+30,Mortdecai,"42,020",13,27,Mortdecai,23-Jan-15,David Koepp,2015,"Johnny Depp, Gwyneth Paltrow, Paul Bettany, Ewan McGregor",5.5
