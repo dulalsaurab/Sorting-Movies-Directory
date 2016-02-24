@@ -1,10 +1,22 @@
-'''
-Created on Feb 21, 2016
+('''
+@author 'Saurab Dulal'
 
-@author: Saurab Dulal
-Sorting Movies Directory
+This scripts reads your movies name from your movies directory and generates a csv file sorting movies according its imdb rating and 
+some minor movies description
 
-'''
+    Note: This script find details of movies listed on IMDB only, dont try some iliwood movies :D
+
+    reads movies from directory 
+    trim movies name to obtain required title using guessit library 
+    uses imdb API to obtain movies detail 
+    write to csv file sorting movies according to imdb rating
+    finally, watch movie having highest imdb rating, dont waste your time searching good movies from your database
+    cheers, 
+
+''')
+
+
+#----------------list of probable library used ---------------------
 
 from os import walk
 import urllib.request
@@ -16,6 +28,7 @@ import csv
 from rottentomatoesRev import rottenTomatosMoviesDataAPI 
 from readingFoldersFile import readFilesFromServer
 from readingFoldersFile import readLocalFiles
+
 
 def ScrapingFromIMDB(nameList):
 	
@@ -31,6 +44,7 @@ def ScrapingFromIMDB(nameList):
 		if(intoJson['Response'] == 'False'):
 			continue
 		else:
+			#rejecting some of the elements from json returned through api,comment those element you dont want to reject
 			intoJson.pop('Response',None)	
 			intoJson.pop('Response',None)
 			intoJson.pop('Poster',None)
@@ -61,6 +75,9 @@ def ScrapingFromIMDB(nameList):
 	return moviesDataDict
 	# WriteToCSV(moviesDataDict)
 
+#------------------------------------------------------------------------------------------------------------------
+# Writing final result to csv file 
+
 def WriteToCSV(listOfDictonary):
 
 	keys = listOfDictonary[0].keys()
@@ -70,7 +87,7 @@ def WriteToCSV(listOfDictonary):
 		dict_writer.writeheader()
 		dict_writer.writerows(listOfDictonary)
 
-
+#------------------------------------------------------------------------------------------------------------------
 def main():
 	#fileLists = readLocalFiles()
 	fileLists = readFilesFromServer()
