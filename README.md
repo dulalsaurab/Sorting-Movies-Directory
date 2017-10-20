@@ -1,4 +1,4 @@
-# Sorting Movies Directory(IMDB and Rotten Tomatoes score)
+# Sorting Movies Directory by IMDB and Rotten Tomatoes score
 
 This project is just for fun. Usually, I watch movies during the weekend and mostly I get stuck to decide which one to watch from the list of movies that are in my drive. Because I want to watch a good movie with fairly good IMDB ratings and good critical feedback, I have to google the names to find out about them. To remove this hassle, I scripted simple python and almost solved the issue. 
 
