@@ -1,4 +1,4 @@
-'''('''
+('''
 @author 'Saurab Dulal'
 
 This script reads movies name from a given movie directory and generates a csv file sorting movies according it's imdb rating and 
@@ -16,7 +16,7 @@ some minor movies description
 ''')
 
 
-#----------------list of probable library used ---------------------'''
+#----------------list of probable library used ---------------------
 
 from os import walk
 import urllib.request
