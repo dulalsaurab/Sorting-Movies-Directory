@@ -1,10 +1,15 @@
 # Sorting Movies Directory(IMDB and Rotten Tomatos score)
 
-This Project reads movies name from a given movie directory and generates a csv file sorting movies according it's imdb and rottentomatoes rating. 
+This project reads the movies names
+from a given directory and generates a csv file sorting the movies according it's imdb and rottentomatoes rating. 
 
-Note: This script find details of movies listed on IMDB and on rottentomatoes only, dont try some iliwood or kollyhood movies :D
+Note: This script find details of movies listed on IMDB and on rottentomatoes only. It won't work for those movies which are not listed on either IMDB or on Rotten Tomatos
+
+**Dependencies**
+
+
     
-    General steps followed :
+**General steps followed**
       
       Read movies from the directory 
       
