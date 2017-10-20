@@ -7,7 +7,7 @@ from a given directory and it generates a CSV file sorting the movies according 
 
 **Note: This script finds details of movies listed on IMDB and on rotten tomatoes only. It won't work for those movies which are not listed on either IMDB or on Rotten Tomatoes**
 
-**Dependent Libraries**
+## Dependent Libraries
 
 Developed on Windows 7 mechine 
 
@@ -22,7 +22,7 @@ python 3.x +
 
 you can use pip to install these libraries or, you can compile the binaries.  
     
-**General steps followed**
+## Steps followed 
       
 - Read movies from the given directory 
       
@@ -37,7 +37,7 @@ you can use pip to install these libraries or, you can compile the binaries.
 - Finally, watch movie having highest rating. Don't waste your time searching good movies from your movies collection 
     
 
-**Limitations**
+## Limitations
 - Depends on lots of libraries
 - Need to specify directory path on the code itself
     - directory = *'/directory/to/your/movies/folder/'* on the file **readingFoldersFile.py**
