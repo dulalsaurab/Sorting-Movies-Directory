@@ -1,6 +1,7 @@
 
-'''since rotten tomatos api returns multiple results, we need movies data to extract exact information 
-thus those input movies having data on it will be porcessed otherwise it will be rejected
+'''Since rotten tomatos api returns multiple results for the same name (movie name) and since I haven't work extensively
+on cleaning the data returned from the api, we need exact movie data to extract exact information. 
+Thus, those input movie names having data on it will be porcessed. otherwise it will be rejected
 
 #http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=ny97sdcpqetasj8a4v2na8va&q=Pain+&+Gain+2013
 
