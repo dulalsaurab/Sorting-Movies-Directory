@@ -5,7 +5,7 @@ Created on Feb 21, 2016
 Sorting Movies Directory
 
 '''
-#this file extracts movies name from ftp server 
+
 from ftplib import FTP
 import os # allows me to use os.chdir
 from os import walk
@@ -15,7 +15,7 @@ ip="FTP_IP_ADDRESS"
 password='FTP_PASSWORD'
 directory = '/directory/to/your/movies/folder/'
 
-#you can use one of the two function below, either read from ftp server or from your local movie directory
+#you can use any of the two function below. Either read from ftp server, or from your local movie directory
 
 #changes the active dir - this is where downloaded files will be saved to
 def readFilesFromServer():
