@@ -1,22 +1,22 @@
-('''
+'''('''
 @author 'Saurab Dulal'
 
-This scripts reads your movies name from your movies directory and generates a csv file sorting movies according its imdb rating and 
+This script reads movies name from a given movie directory and generates a csv file sorting movies according it's imdb rating and 
 some minor movies description
 
-    Note: This script find details of movies listed on IMDB only, dont try some iliwood movies :D
+    Note: This script only find details of movies listed on IMDB only, it will not work for movies not listed withing IMDB DB
 
-    reads movies from directory 
+    Read movies from a given directory 
     trim movies name to obtain required title using guessit library 
     uses imdb API to obtain movies detail 
     write to csv file sorting movies according to imdb rating
-    finally, watch movie having highest imdb rating, dont waste your time searching good movies from your database
+    finally, watch movie having highest imdb rating, dont waste your time searching good movies from your movie directory
     cheers, 
 
 ''')
 
 
-#----------------list of probable library used ---------------------
+#----------------list of probable library used ---------------------'''
 
 from os import walk
 import urllib.request
