@@ -11,7 +11,7 @@ from a given directory and it generates a CSV file sorting the movies according 
 
 Development Date: February 21, 2016 
 
-Developed on Windows 7 mechine 
+Developed on Windows 7 machine 
 
 python 3.x +
 
